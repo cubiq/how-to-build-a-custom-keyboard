@@ -23,3 +23,5 @@ I always felt this craving for building and fixing things. When I was a kid I re
 I ended up studying art. I know, apparently it doesn't make sense but I couldn't bear "wasting" 4-5 years in engineering; I wanted to jump right into it and build stuff. I consequently turned into a self taught generalist. I have a very basic understanding of electronics, I can vaguely hold a soldering iron, I can work my head around CAD and CAM software, I can work with CNC routers and 3D printers, but I'm really not an expert in any of those fields.
 
 What I'm trying to say is that if I can build a keyboard from scratch, nothing stops you from doing the same. I have no superpowers and I haven't studied anything that made this task easier. I wrote this manual to share my five years experience in building keyboards and to hopefully spare you some of the mistakes I made.
+
+\newpage

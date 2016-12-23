@@ -63,6 +63,8 @@ The best looking keyboards are probably machined with CNC routers but the cost c
 
 The new kid in town. A keyboard case is a quite big chunk of plastic so online services that usually bill per volume (like [Shapeways](https://www.shapeways.com/) end up being rather expensive, but 3D printers are more and more common nowadays and chances are that you have access to one, in which case 3D printing is definitely a viable option. Print volume of consumer grade printers is usually barely enough for a small 60% keyboard, but with a bit of creativity you should be able to split the enclosure into smaller pieces.
 
+![Case printed with a filament 3D printer](imgs/3d-printed-case.jpg "3D printed case")
+
 ----
 
 These are just few options but the possibilities are endless. If you are a little crafty you could carve the case out of wood or you could always recover that box of LEGO you have in attic...
@@ -98,3 +100,47 @@ The question is: _how much are willing to spend on it?_ This is _your_ project, 
 \newpage
 
 ## Setting up the working area
+
+### The must have
+
+![](./imgs/hakko-fx-888d.jpg "Hakko Soldering Station")
+
+The only piece of hardware you actually need is a **soldering iron**. Now. I'm aware that there's a cult around soldering and I'm not worthy but the following is what worked for me.
+
+For years I used a cheap (<$10) 30W unbranded soldering iron and it was perfectly fine. You don't need to spend a fortune on it, head to Amazon or your trusted electronics store and pick any top seller 40-60W iron. On the other hand if you intend to get serious about DIY stuff I would recommend purchasing a soldering station. In this case, do not go for a cheap one, get a decent hobbyist level station, it can be a tad expensive but it will last for decades.
+
+The [Hakko FX888D](https://www.hakko.com/english/products/hakko_fx888d.html) or the [Weller WES51](http://www.weller-toolsus.com/weller-wes51-station-50-60w-120v-wes51.html) are two examples of decently priced good quality soldering stations. I personally own the Hakko and I can only say good things about it.
+
+Of course you need some **wire solder** too. Lead-free solder is good for your health and the environment but it's hard to master, so I tend to always use the 60/40 tin-to-lead ratio kind. I don't have a preferred brand, I just buy whatever is available at the moment but _Indium_ and _Kester_ are known to be very good. As per the gauge I find 0.8mm (0.31") to be an effective all-purpose size.
+
+That's pretty much it. You don't need anything else, but we DIYers love our gadgets! There are so many tools that although not strictly necessary will make your life a lot easier.
+
+### The good to have
+
+The soldering iron tip gets dirty during the soldering session and you may find useful a **brass wire sponge** or a piece of steel wool to wipe it on. A dampened old kitchen sponge also work.
+
+**A rotary tool kit**. You probably know the Dremel but you can find cheaper (and often better) alternatives from Proxxon, Black and Decker, Bosch. What is important are the bits. Take a good set of cutting, sanding, carving, grinding, drilling, engraving bits. The more the merrier, you never know which one you'll need. The rotary tool is probably the most important piece of hardware for any maker.
+
+I also find myself using a **glue gun** quite often. If you are hand wiring your switches you may want to add some hot glue between the switches and the plate to prevent the switches to pop out when removing the keycaps.
+
+A **desoldering vacuum pump** (also solder sucker) comes often handy. You may want to reuse some old switches or fix some _whoopsies_; a desoldering pump is the easiest way to accomplish that without breaking the bank.
+
+### The nice to have
+
+Occasionally you'll find some very nasty pads or solder points that don't really want to stick together. **Some flux** can be a life saver in those situations. I find flux in paste to be very versatile, but products like the _MG Chemicals 835-P Rosin Flux Pen_ is probably more practical.
+
+A **helping hand with magnifying glass** can also be useful. It is inexpensive and you'll find yourself using it for all kind of jobs (not just soldering). Sometimes you need to join two pieces together while holding the iron on one hand and solder in the other. At that point you wish you were an octopus.
+
+More glue! The most effective in keyboard building is probably **epoxy glue**. It's a two components glue that you mix together before applying. There are many kinds from many companies (eg: J-B Weld, Bostik, Loctite) but the main difference is the curing time. I noticed that the faster it cures the weaker the bond. For our purpose the standard 5 minutes dry time should be good enough, but you can find even 8-hours curing time epoxy glue.
+
+Always handy of course super glue and all purpose glue.
+
+**Files and sand paper**. Arm yourself with a good set of fine metal files (wood too if you plan to work with this material) and 400 to 800 grit sand paper.
+
+**Sharp hobby knife**, a **cutting mat** (the bigger the better), **tweezers** and a good set of **screw drivers** like those from iFixit.
+
+----
+
+Congratulations batman, at this point your belt should be full of nice gadgets, let's head to the bat signal!
+
+\newpage
