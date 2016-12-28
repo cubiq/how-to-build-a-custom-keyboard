@@ -26,8 +26,6 @@ The community has been very active these last few years, first of all check if i
 
 Another option is to have a set printed at [WASD Keyboards](http://www.wasdkeyboards.com/); they offer an interesting customization tool that lets you design the legends in any way you want.
 
-If you need even more unique keys the next step would probably be to 3D print or custom build them somehow.
+If you need even more unique keys the next step would probably be to 3D print or custom build them somehow, but that is a bit over the scope of this manual.
 
-So the first question you have to ask yourself is: _can I find all the keycaps for my layout?_ If the answer is "no", don't despair, you still have a few options.
-
-\newpage
+The moral of the story is: before going crazy with super complicated layouts, check if you can find all the keycaps you need!
